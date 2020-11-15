@@ -1,2 +1,2 @@
-# sl-time
-SavaLione time library
+# SavaLione time C++ library
+
